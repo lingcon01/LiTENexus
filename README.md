@@ -22,7 +22,9 @@
 ## ✨ Overview
 
 LiTENexus is a physics-grounded, end-to-end AI-aided drug discovery (AIDD) framework designed to bridge microscopic quantum chemical principles with macroscopic pharmacological applications. The system is built upon the **Quantum Chemical Information Injection (QCII)** mechanism and powered by the foundational **LiTEN-Base** operator.
-<img width="416" height="173" alt="image" src="https://github.com/user-attachments/assets/b5c166ad-4e05-4029-bb66-1e25ef9e314f" />
+<p align="center">
+  <img src="assets/abstract figure.png" alt="LiTENexus framework" width="85%">
+</p>
 
 
 Unlike conventional molecular representation models that primarily learn statistical correlations from data, LiTENexus dynamically integrates quantum chemical laws into neural operators, enabling:
