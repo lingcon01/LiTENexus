@@ -56,7 +56,6 @@ Unlike conventional molecular representation models that primarily learn statist
   - Energy prediction
   - Force prediction
   - Charge distribution
-  - Bond dissociation energy (BDE)
   - Molecular conformational analysis
 
 ### 💊 ADMET Modeling
@@ -168,9 +167,9 @@ LiTENexus can be applied to:
 
 ## 🌐 Online Platform
 
-We are actively developing the public **LiTENexus Platform** to provide open access to quantum-aware molecular modeling and AI-driven drug discovery tools.
+The public **LiTENexus Platform** is under continuous development and expansion, aiming to provide open access to quantum-aware molecular modeling and AI-driven drug discovery tools.
 
-The platform will support:
+Current and upcoming functionalities include:
 
 - ⚛️ Quantum-level molecular property prediction
 - 💊 ADMET evaluation
@@ -181,10 +180,10 @@ The platform will support:
 
 ### 🔗 Platform Access
 
-👉 **Our platform will be publicly available at:**  
+👉 **Platform Website:**  
 **https://cadd.zju.edu.cn/litenexus/**
 
-Stay tuned for future releases and updates.
+The platform is continuously being updated with new models, datasets, and drug discovery modules. More features and public services will be released progressively.
 
 ---
 
