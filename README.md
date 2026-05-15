@@ -192,11 +192,17 @@ The platform is continuously being updated with new models, datasets, and drug d
 If you find this project useful in your research, please cite:
 
 ```bibtex
-@article{litenexus2026,
-  title={LiTENexus: An End-to-End Virtual Drug Discovery System Based on Quantum Chemical Grounding},
-  author={Su, Qun and Gou, Qiaolin and Hui Zhang and others},
-  journal={Under Review},
-  year={2026}
+@article{
+doi:10.26434/chemrxiv.15003380/v1,
+author = {Qun Su  and Qiaolin Gou  and Hui Zhang  and Meijing Fang  and Kewen Wang  and Wangcong Tian  and Yurong Li  and Donghai Zhao  and Yitong Li  and Rui Qin  and Shicheng Chen  and Zijie Chen  and Peichen Pan  and Yu Kang  and Chang-Yu Hsieh  and Jike Wang  and Tingjun Hou },
+title = {LiTENexus: An End-to-End Virtual Drug Discovery System Based on Quantum Chemical Grounding},
+journal = {ChemRxiv},
+volume = {2026},
+number = {0515},
+pages = {},
+year = {2026},
+doi = {10.26434/chemrxiv.15003380/v1},
+URL = {https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15003380/v1}
 }
 ```
 
