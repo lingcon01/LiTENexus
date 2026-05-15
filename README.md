@@ -194,7 +194,7 @@ If you find this project useful in your research, please cite:
 ```bibtex
 @article{litenexus2026,
   title={LiTENexus: An End-to-End Virtual Drug Discovery System Based on Quantum Chemical Grounding},
-  author={Su, Qun and Gou, Qiaolin and Dai, Mengzhe and others},
+  author={Su, Qun and Gou, Qiaolin and Hui Zhang and others},
   journal={Under Review},
   year={2026}
 }
